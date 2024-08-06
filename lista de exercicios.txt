@@ -1,0 +1,75 @@
+aqui estão os programas:
+
+nivel 1: conceitos basicos: calculos e print
+Hello world
+Soma de dois numeros
+Dia, mes e ano
+Antecessor e sucessor
+Mostra as 6 operações(mais, menos, vezes, divisão, potenciação e raiz)
+Media de 2 notas
+Tabuada
+Arredondador de numeros
+
+nivel 2: conceitos basicos 2: calculo 2, estrturas de condição(if, else e elif), modulo(basico) e manipulação de string
+conversor de real para euro e dólar
+descontador de imposto
+escolhedor de alunos
+aluguel de carro(pagar o dia e quantos km rodou)
+mostra o primeiro nome e o ultimo
+mostra a primeira letra, tudo maiusculo e minusculo e quantas letras tem
+verificador de número negativo ou positivo
+verificador de maior ou menor
+verificador de par ou impar
+verificador de numero primo
+gerador de numeros aleatorios
+multa de carro(descontar de acordo com os km ultrassado)
+
+nivel 3: if 2 e modulo
+verificador de ano bissexto
+mostre se da ou não para formar um triangulo(lei de formação de um triangulo)
+mostra unidade, dezena, centena e milhar
+mostra quantas vogais a em uma frase/palavra
+faça uma contagem (sleep)
+acerte o numero(aleatorio)
+mostra a data + o horario atual (modulo)
+mostre a media entre as 2 notas e mostre se a pessoa reprovou, esta de recuperação ou esta aprovado
+faça um financiamento de casa(pergunte o valor da casa,o salario e quantos anos ela vai querer pagar e mostre em quantos meses a pessoa vai pagar pela casa)(porem se a quantidade por mes for maior doque 30% do salario a compra não vai ser efetuada)
+caculador de imc
+mostre quando vai ter que ser feito o alistamento militar(apenas se for homem) (modulo)
+mostrar se o triangulo pode ser formado + qual triangulo ele pode ser formado(escaleno, isosceles e equilatero)
+mostre a venda de um produto(pergunte quanto custa) e dependendo da forma de pagamento o preço mudara de acordo com descontos(a vista, cartão ou parcelado)
+jogo de papel, papel e tesoura
+
+nivel 4: listas e estruturas de repetição: for e while
+registe o sexo mas só se a pessoa digitar certo
+caculo de fatorial 
+mostre uma contagem de numeros de 0 a 100
+faça uma contagem de 0 a 100 mostrando os pares
+some todos os numeros impares de 1 a 500
+faça uma contagem de 8 pessoas e verifique quantas são maiores de idade e menor de idade(pergunte o ano)
+verifique o peso de 6 pessoas e mostre qual é a mais pesada e a mais leve 
+mostre 10 termos de uma p.a(pergunte a razão)
+verifique 5 pessoas e mostre o homem e a mulher mais pesados/leves e mais velho/novo e faça uma media de idade entre elas e mostre quantas pessoas gordas e magras tem
+
+melhore:
+tauada
+jogo de advinhação
+Mostra as 6 operações(mais, menos, vezes, divisão, potenciação e raiz) 
+mostre 10 termos de uma p.a(pergunte a razão)
+
+nivel 4.1: calculo 3
+mostre a sequencia de fibonacci
+some os numeros até a pessoa decidir parar 
+verifique até parar, qunado parar, mostre a media e o maior e o menor
+jogo de par e impar
+
+melhore:
+verifique 5 pessoas e mostre o homem e a mulher mais pesados/leves e mais velho/novo e faça uma media de idade entre elas e mostre quantas pessoas gordas e magras tem
+
+verifique produtos até parar, quando parar verifique quantos custam mais de 1000 , o mais barato e o valor total do carinho
+pergunte o valor a sacar no banco e mostre quantas cedulas a pessoa irá sacar(cedulas: 100, 50, 20, 5, 2, 1)
+pergunte os nomes e notas de alunos indefinidos e logo em seguida mostre uma tabela organizada dos alunos com suas notas
+
+nivel 5: conceitos basicos final, dicionarios e conjuntos
+
+70
