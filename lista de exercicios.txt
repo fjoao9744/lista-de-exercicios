@@ -4,8 +4,8 @@ nivel 1: conceitos basicos: calculos e print
 Hello world
 Soma de dois numeros
 Dia, mes e ano
-Antecessor e sucessor
 Mostra as 6 operações(mais, menos, vezes, divisão, potenciação e raiz)
+Antecessor e sucessor
 Media de 2 notas
 Tabuada
 Arredondador de numeros
