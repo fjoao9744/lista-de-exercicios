@@ -1,5 +1,3 @@
-#testar mais tarde
-
 '''
 
 din = float(input('digite o valor a ser convertido? '))
@@ -12,8 +10,12 @@ print(f"você tem {dol:.2f} dolares e {euro:.2f} euros") #arredondado
 '''
 
 import requests
+import json
 
 var = requests.get('https://economia.awesomeapi.com.br/last/USD-BRL,EUR-BRL,BTC-BRL')
 
+dolar = json.loads(var.content)
 
-print(var)
+print(f"o {dolar['USDBRL']['name']} esta com a cotação de {dolar['USDBRL']['high']}")
+
+
