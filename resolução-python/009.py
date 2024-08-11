@@ -12,7 +12,7 @@ print(f"você tem {dol:.2f} dolares e {euro:.2f} euros") #arredondado
 import requests
 import json
 
-var = requests.get('https://economia.awesomeapi.com.br/last/USD-BRL,EUR-BRL,BTC-BRL')
+var = requests.get('https://economia.awesomeapi.com.br/last/USD-BRL')
 
 dolar = json.loads(var.content)
 
