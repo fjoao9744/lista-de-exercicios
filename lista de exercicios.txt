@@ -10,7 +10,7 @@ Media de 2 notas
 Tabuada
 Arredondador de numeros
 
-nivel 2: conceitos basicos 2: calculo 2, estrturas de condição(if, else e elif), modulo(basico) e manipulação de string
+nivel 2: conceitos basicos 2: calculo 2, estrturas de condição(if, else), modulo(basico) e manipulação de string
 conversor de real para euro e dólar
 descontador de imposto
 escolhedor de alunos

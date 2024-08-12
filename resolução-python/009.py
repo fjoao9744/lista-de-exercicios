@@ -9,6 +9,8 @@ print(f"você tem {dol:.2f} dolares e {euro:.2f} euros") #arredondado
 
 '''
 
+
+#não é bem a mesma coisa mas isso é um teste de API
 import requests
 import json
 
