@@ -73,3 +73,7 @@ pergunte os nomes e notas de alunos indefinidos e logo em seguida mostre uma tab
 nivel 5: conceitos basicos final, dicionarios e conjuntos
 
 70
+
+conversor de graus para farenwaint
+calcular area
+calcular hipotenusa
