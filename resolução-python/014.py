@@ -16,4 +16,6 @@ print(f'a primeira letra do seu nome é {n[0]}')
 print(f'seu nome todo em maiusculo é {n.upper()}')
 print(f'e seu nome tem {len(n)} caracteres')
 
+#obs: pra que criar funções que ja existem?
+
 
