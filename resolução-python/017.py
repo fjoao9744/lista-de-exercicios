@@ -1,4 +1,4 @@
-n = int(input("digite um numero: "))
+'''n = int(input("digite um numero: "))
 
 primo = False
 
@@ -21,3 +21,27 @@ if primo == True:
     print("seu numero é primo")
 if primo == False:
     print("seu numero não é primo")
+'''
+
+
+def primo(n: int) -> None:
+    if n in [2, 3, 5, 7]:
+        print("Seu numero é primo!")
+
+    else:
+        if n % 2 == 0 or n % 3 == 0 or n % 5 == 0 or n % 7 == 0:
+            print("Seu numero NÃO é primo!")
+        else:
+            print("Seu numero é primo!")
+
+
+'''
+num = int(input("Digite um numero: "))
+primo(num)
+'''
+
+'''
+for c in range(100):
+    print(c, end=' ')
+    primo(c)
+'''
