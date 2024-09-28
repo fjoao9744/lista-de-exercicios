@@ -35,10 +35,10 @@ def primo(n: int) -> None:
             print("Seu numero é primo!")
 
 
-'''
+
 num = int(input("Digite um numero: "))
 primo(num)
-'''
+
 
 '''
 for c in range(100):
