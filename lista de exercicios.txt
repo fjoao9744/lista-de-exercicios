@@ -60,7 +60,7 @@ mostre 10 termos de uma p.a(pergunte a razão)
 nivel 4.1: calculo 3
 mostre a sequencia de fibonacci
 some os numeros até a pessoa decidir parar 
-verifique até parar, qunado parar, mostre a media e o maior e o menor
+verifique até parar, quando parar, mostre a media e o maior e o menor
 jogo de par e impar
 
 melhore:
@@ -72,8 +72,23 @@ pergunte os nomes e notas de alunos indefinidos e logo em seguida mostre uma tab
 
 nivel 5: conceitos basicos final, dicionarios e conjuntos
 
+nivel 6: funções, tuplas e match case
+
+nivel 7: manipulação de arquivos e tratamento de erros
+
+nivel 8: conhecendo funções padrão
+
+nivel 8.1: decorator
+
+nivel 8.2: ambientes virtuais e explorando bibliotecas padrão
+
+nivel 9: classes e introdução de objetos
+
+nivel 10: objetos e metodos magicos
+
 70
 
+função que recebe um dicionario com a nota dos alunos e retorna uma lista com o nome do aluno e se ele passou
 conversor de graus para farenwaint
 calcular area
 calcular hipotenusa
