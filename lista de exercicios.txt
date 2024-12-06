@@ -92,3 +92,4 @@ função que recebe um dicionario com a nota dos alunos e retorna uma lista com 
 conversor de graus para farenwaint
 calcular area
 calcular hipotenusa
+recebe palavras e tem que identificar se é numero ou letra e organizar em ordem crescente e em decrescente
