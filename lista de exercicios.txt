@@ -83,9 +83,10 @@ nivel 8.1: decorator
 nivel 8.2: ambientes virtuais e explorando bibliotecas padrão
 
 nivel 9: classes e introdução de objetos
+crie uma classe chamada pessao e que tenha um metodo "apresentar" em que ele fala os seus dados(nome, idade, sexo)
 
 nivel 10: objetos e metodos magicos
-
+crie o objeto biblioteca que vai poder conter o objeto livro
 70
 
 função que recebe um dicionario com a nota dos alunos e retorna uma lista com o nome do aluno e se ele passou
